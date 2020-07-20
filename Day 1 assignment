@@ -1,0 +1,18 @@
+1.what is python?
+Python is an interpreted, object-oriented, high-level programming language . Python is  simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
+Python supports modules and packages, which encourages program modularity and code reuse.
+what are the ways to install python in your pc
+Step 1: Download the Python 3 Installer. Open a browser window and navigate to the Download page for Windows at python.org
+Step 2: Run the Installer. Once you have chosen and downloaded an installer, simply run it by double-clicking on the downloaded file.
+Another method of installing python
+Click Python Download. ...
+Click the Windows link (two lines below the Download Python 3.7
+Click on the Download Windows x86-64 executable installer link under the top-left Stable Releases.
+Move this file to a more permanent location, so that you can install Python (and reinstall it easily later, if necessary).
+
+2.what is code environment?
+A code environment is a standalone and self-contained environment to run Python or R code. In each location where you can run Python or R code, you can select which code environment to use.And it is a place where we can code and execute and run a program inorder to get the output.
+Types of Code Environment-
+1)Text Editors
+2)Full IDE
+3)Notebook Environments.
